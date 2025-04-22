@@ -2,12 +2,10 @@
 # Cocos Creator Projects
 #/////////////////////////////////////////////////////////////////////////////
 node_modules/
-build/
 library/
 temp/
 local/
 jsb-binary/
-web-desktop/
 web-mobile/
 runtime/
 jsb/
